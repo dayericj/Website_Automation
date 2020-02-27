@@ -38,8 +38,6 @@ if WaitForElement:
     print('Log in to OrangeHRM was successful')
 else:
     print('Login page failed to load')
-    
-    # is this beig pished to the website************************
 
 
 
