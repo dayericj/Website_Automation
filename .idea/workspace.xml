@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d65ffc-e4da-46d7-bac4-05d61d8daef6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOlgpCzsoaMvnMDWgX4XS4dzkM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TestHRSiteAutomation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d65ffc-e4da-46d7-bac4-05d61d8daef6" name="Default Changelist" comment="" />
+      <created>1580925135146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580925135146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="0" key="#Google" timestamp="1582744526840">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#Google/0.0.1280.680@0.0.1280.680" timestamp="1582744526840" />
+    <state x="233" y="0" key="#Inspections" timestamp="1582740214310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582740214310" />
+    <state x="233" y="0" key="#Intentions" timestamp="1580925442234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1580925442234" />
+    <state x="361" y="0" key="#TestHRSiteAutomation" timestamp="1582744564347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#TestHRSiteAutomation/0.0.1280.680@0.0.1280.680" timestamp="1582744564347" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580925188009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580925188009" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1582817637595">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582817637595" />
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1582818102733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582818102733" />
+    <state width="1259" height="165" key="GridCell.Tab.0.center" timestamp="1582818102733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582818102733" />
+    <state width="1259" height="165" key="GridCell.Tab.0.left" timestamp="1582818102725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582818102725" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right" timestamp="1582818102733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582818102733" />
+    <state width="1259" height="203" key="GridCell.Tab.1.bottom" timestamp="1582597520738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582597520738" />
+    <state width="1259" height="203" key="GridCell.Tab.1.center" timestamp="1582597520738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582597520738" />
+    <state width="1259" height="203" key="GridCell.Tab.1.left" timestamp="1582597520738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582597520738" />
+    <state width="1259" height="203" key="GridCell.Tab.1.right" timestamp="1582597520738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582597520738" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582818042216">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582818042216" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1582564542611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582564542611" />
+    <state x="0" y="0" width="742" height="680" key="find.popup" timestamp="1582818071496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="742" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1582818071496" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582742430497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582742430497" />
+    <state x="471" y="133" key="svn.repositoryBrowser" timestamp="1582817619044">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="133" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1582817619044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
