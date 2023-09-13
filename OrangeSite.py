@@ -3,8 +3,8 @@
 #Function Description: Driver component will find and click given link and find elements specified.
 #Author: Eric Day
 #Date Created: 2/24/2020
-#Modified by:
-#Modification Date: 10/12/2020
+#Modified by: Eric Day
+#Modification Date: 9/13/2023
 #**************************************************************************
 
 import catch as catch
